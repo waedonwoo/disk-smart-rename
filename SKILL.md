@@ -1,8 +1,8 @@
 ---
-slug: disk-smart-rename
+name: disk-smart-rename
 displayName: Smart Rename 智能文件重命名助手
 version: 1.0.0
-summary: 一键扫描磁盘并智能重命名乱码文件——PDF/DOCX/PPTX/XLSX 自动提取内容标题，图片读取 EXIF 拍摄时间戳，电子发票按日期归档。零破坏，仅重命名不删除。
+description: 一键扫描磁盘并智能重命名乱码文件——PDF/DOCX/PPTX/XLSX 自动提取内容标题，图片读取 EXIF 拍摄时间戳，电子发票按日期归档。零破坏，仅重命名不删除。
 license: MIT
 tags: [文件整理, 磁盘清理, EXIF, 发票归档, 批量重命名, 效率工具]
 ---
